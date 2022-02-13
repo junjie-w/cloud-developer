@@ -1,4 +1,4 @@
-# A link to the endpoint URL for a running elastic beanstalk deployment:
+# A link to the endpoint URL for the running elastic beanstalk deployment:
 http://udagramimagefilterjunjie-env.eba-5h9qmp7x.us-east-1.elasticbeanstalk.com/
 
 # filter an example image:
